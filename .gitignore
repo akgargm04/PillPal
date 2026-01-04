@@ -1,0 +1,21 @@
+# Node
+node_modules
+npm-debug.log
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+
+# Build
+dist
+build
+
+# Logs
+logs
+*.log
+
+# Uploads / temp
+uploads
+tmp
